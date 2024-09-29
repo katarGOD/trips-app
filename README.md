@@ -18,7 +18,7 @@ First, install all required packages.
 ```bash
 npm install
 ```
-Second, run the development server:
+Second, run the json server:
 
 ```bash
 npm start
