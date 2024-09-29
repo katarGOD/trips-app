@@ -18,8 +18,13 @@ First, install all required packages.
 ```bash
 npm install
 ```
-
 Second, run the development server:
+
+```bash
+npm start
+```
+
+Three, run the development server:
 
 ```bash
 npm run dev
